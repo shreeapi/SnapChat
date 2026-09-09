@@ -1,0 +1,13 @@
+{
+  "name": "snap-profile-api",
+  "version": "1.0.0",
+  "description": "Snapchat profile lookup API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0"
+  }
+}
